@@ -12,14 +12,14 @@ The system implements a multi-agent workflow:
 4. **Iterative Improvement**: Continues until quality threshold is met (score ≥8) or max iterations (3)
 
 ## Screenshots
-![screenshot][./screenshots/1.jpeg]
-![screenshot][./screenshots/2.jpeg]
-![screenshot][./screenshots/3.jpeg]
-![screenshot][./screenshots/4.jpeg]
-![screenshot][./screenshots/5.jpeg]
-![screenshot][./screenshots/6.jpeg]
-![screenshot][./screenshots/7.jpeg]
-![screenshot][./screenshots/8.jpeg]
+![screenshot][screenshots/1.jpeg]
+![screenshot][screenshots/2.jpeg]
+![screenshot][screenshots/3.jpeg]
+![screenshot][screenshots/4.jpeg]
+![screenshot][screenshots/5.jpeg]
+![screenshot][screenshots/6.jpeg]
+![screenshot][screenshots/7.jpeg]
+![screenshot][screenshots/8.jpeg]
 
 ## Architecture
 
